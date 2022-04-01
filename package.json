@@ -17,7 +17,7 @@
     "test": "echo \"no test specified,work in process\""
   },
   "dependencies": {
-    "@vitejs/plugin-legacy": "^1.5.3",
+    "@vitejs/plugin-legacy": "^1.8.0",
     "dayjs": "^1.10.6",
     "echarts": "~5.1.2",
     "hex-to-hsl": "^1.0.2",
