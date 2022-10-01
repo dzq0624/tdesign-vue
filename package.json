@@ -62,7 +62,7 @@
     "vite-plugin-theme": "^0.8.1",
     "vite-plugin-vue2": "^1.2.2",
     "vue-clipboard2": "^0.3.1",
-    "vue-router": "^3.5.1",
+    "vue-router": "^3.6.5",
     "vuex-router-sync": "^5.0.0"
   },
   "config": {
